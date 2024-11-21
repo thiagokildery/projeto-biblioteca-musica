@@ -41,9 +41,9 @@ A aplicação é um sistema simples para gerenciar uma lista de discos (como ál
   ```
   Exemplo:
   ```
-  Dark Side of the Moon|4.9
-  Abbey Road|5.0
-  Thriller|4.8
+  A Tabua de Esmeralda|4.9
+  Da Lama ao Caos|5.0
+  Roteiro para Aïnouz(Vol. 2)|4.8
   ```
 
 ---
