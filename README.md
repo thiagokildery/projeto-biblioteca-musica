@@ -39,7 +39,7 @@ A aplicação é um sistema simples para gerenciar uma lista de discos (como ál
   ```
   <nome do disco>|<nota>
   ```
-      Exemplo:
+  Exemplo:
   ```
   Dark Side of the Moon|4.9
   Abbey Road|5.0
