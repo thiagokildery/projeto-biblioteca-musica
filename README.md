@@ -41,9 +41,9 @@ A aplicação é um sistema simples para gerenciar uma lista de discos (como ál
   ```
   Exemplo:
   ```
-  A Tabua de Esmeralda|4.9
-  Da Lama ao Caos|5.0
-  Roteiro para Aïnouz(Vol. 2)|4.8
+  A Tabua de Esmeralda - Jorge Ben|4.9
+  Da Lama ao Caos - Chico Science|5.0
+  Roteiro para Aïnouz(Vol. 2) - Don L|4.8
   ```
 
 ---
